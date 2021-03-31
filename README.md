@@ -2,6 +2,9 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)
+
 This is the documentation for the ***[Code Collabo project](https://github.com/code-collabo)***. For new contributors and users, see ***project overview: [welcome to Code Collabo community](https://github.com/code-collabo/code-collabo)*** to help understand what the project is all about.
 
 Code Collabo docs content has been arranged such that it is easy to quickly navigate to any project on the platform, and get started with contributing or usage.
