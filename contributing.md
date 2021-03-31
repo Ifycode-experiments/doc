@@ -36,3 +36,6 @@ The following repos make up the ***node-mongo project***: ***[node-mongo-cli](ht
 
 ## List of contributors
 We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors are listed on the readme of the repo(s) they contributed to, following the ***[all contributors spec](https://allcontributors.org/docs/en/specification)***. As the number of contributors increase over time, the list will be moved to separate contributor.md files. The ***[all-contributors.md](https://github.com/code-collabo/docs/blob/main/all-contributors.md)*** has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added. 
+
+## Useful link
+* ***[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)***
