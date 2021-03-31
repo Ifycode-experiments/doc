@@ -8,6 +8,6 @@
 
 ### Development
 * [node-mongo-cli](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/development.md)
-* []()
+* [node-mongo-starter-kit](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-starter-kit/development.md)
 * []()
 * []()
