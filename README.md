@@ -32,4 +32,5 @@ Thanks to these wonderful people helping to improve ***Code Collabo docs*** ([em
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See complete list of Code Collabo contributors in the ***[all-contributors.md](https://github.com/code-collabo/docs/blob/main/all-contributors.md)*** or find contributors for a particular project on repo readme.
+
