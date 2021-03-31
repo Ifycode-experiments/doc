@@ -17,7 +17,7 @@ Please go through the general guidelines below and the one specific to the parti
 _Tag **@Ifycode** in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
 
 ### docs repo
-If you find issues with any part of the documentation, you can report the issue. You will be asked to help work on it or assign it to someone else (if you don't have time). As documentation is very delicate:
+If you find issues with any part of the documentation, you can report the issue. You will be asked to help work on it or it will be assigned to someone else (if you don't have time). As documentation is very delicate and for orderliness please follow these guidelines:
 * Do not submit a pull request for an issue you have not been asked to help with or assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. See [contribution & community guidelines](https://github.com/code-collabo/node-mongo-docs/issues/3) for complete details.
 * You can [report or find issues to work on here](https://github.com/code-collabo/docs/issues).
 
@@ -35,4 +35,4 @@ The following repos make up the ***node-mongo project***: ***[node-mongo-cli](ht
 * You can [report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
 
 ## List of contributors
-We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors to each repos are listed on the readme and contributor.md of each repo following the ***[all contributors spec](https://allcontributors.org/docs/en/specification)***. As the number of contributors increase over time, we will use only the contributor.md to show list of contributors. The all-contributors.md has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added. 
+We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors are listed on the readme of the repo(s) they contributed to, following the ***[all contributors spec](https://allcontributors.org/docs/en/specification)***. As the number of contributors increase over time, the list will be moved to separate contributor.md files. The all-contributors.md has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added. 
