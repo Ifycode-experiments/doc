@@ -1,6 +1,6 @@
 # Contributing guide
 
-Thank you for... Add complete info here. 
+Thank you for your interest in Code Collabo. We welcome and encourage anyone with any level of experience to contribute to any or all aspects of Code Collabo's projects. 
 
 ## Contributing to our projects
 
@@ -22,8 +22,3 @@ The following repos make up the ***node-mongo project***: ***[node-mongo-cli](ht
 * Completing the [first task assignment](https://github.com/code-collabo/node-mongo-cli/issues/1#issuecomment-785559734) is compulsory, for contributors that are interested in working on (i.e. submitting or reviewing code for) issues with `cli-only` label or `starter-kit-only` label.
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. See [contribution & community guidelines](https://github.com/code-collabo/node-mongo-docs/issues/3) for complete details.
 * [Report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
-
-## Related repositories
-List of all repos in the node-mongo-cli project by Code Collabo community:
-* [node-mongo-docs](https://github.com/code-collabo/node-mongo-docs).
-
