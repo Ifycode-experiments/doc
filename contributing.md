@@ -6,7 +6,7 @@ Thank you for your interest in Code Collabo. We welcome and encourage anyone wit
 
 You can contribute in any of these areas: `nodejs development`, `mongoDB development`, `unit testing`, `documentation` & `research`. 
 
-📌 Contribution guideline is different depending on the project you are working on.
+📌 ***Note:*** Contribution guideline is different depending on the project you are working on.
 
 Please go through the general guidelines below and the one specific to the particular project(s) you've chosen to work on, before you start contributing to any of Code Collabo's projects.
 
@@ -16,8 +16,15 @@ Please go through the general guidelines below and the one specific to the parti
 
 _Tag **@Ifycode** in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
 
+### less-css-helper-library repo
+If you find that some frequently used in-built css styles are not yet included in the library, you can raise it as an issue or send a pull request. Please take note of the following while contributing to the ***[less-css-helper-library](https://github.com/code-collabo/less-css-helper-library)*** repo:
+* Group property-value pairs that are related or are often used together in one class so that it is reusable.
+* The styles or classes (names) you propose must give good idea of the property-value pairs stored in it. 
+* Styles or classes proposed must be usable in any section inside the body of html documents.
+* You can [report or find issues to work on here](https://github.com/code-collabo/less-css-helper-library/issues).
+
 ### node-mongo project repos
 The following repos make up the ***node-mongo project***: ***[node-mongo-cli](https://github.com/code-collabo/node-mongo-cli)***, ***[node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit)*** and ***[node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs)***. These contributing guidelines are specific to the node-mongo project repos:
 * Completing the [first task assignment](https://github.com/code-collabo/node-mongo-cli/issues/1#issuecomment-785559734) is compulsory, for contributors that are interested in working on (i.e. submitting or reviewing code for) issues with `cli-only` label or `starter-kit-only` label.
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. See [contribution & community guidelines](https://github.com/code-collabo/node-mongo-docs/issues/3) for complete details.
-* [Report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
+* You can [report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
