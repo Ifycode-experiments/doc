@@ -1,4 +1,4 @@
-# node-mongo-cli development
+# less-css-helper-library development
 
 ## Development environment
 After cloning your fork on to your computer as explained in the ***[git workflow page](https://github.com/code-collabo/docs/blob/main/contributor-guide/git-workflow.md)***, here's how to get your ***[less-css-helper-library](https://github.com/code-collabo/less-css-helper-library)*** development environment running:
