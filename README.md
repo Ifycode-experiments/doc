@@ -1,2 +1,2 @@
-# node-mongo-docs
-Documentation for all repos linked to node-mongo-cli project.
+# Code Collabo docs
+This is the documentation for the Code Collabo project. For new contributors (and users), see ***project overview: [welcome to Code Collabo community](https://github.com/code-collabo/code-collabo)***.
