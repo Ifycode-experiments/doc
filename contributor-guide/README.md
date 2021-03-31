@@ -7,7 +7,7 @@
 * [Git workflow](https://github.com/code-collabo/docs/blob/main/contributor-guide/git-workflow.md)
 
 ### Development
-* []()
+* [node-mongo-cli](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/development.md)
 * []()
 * []()
 * []()
