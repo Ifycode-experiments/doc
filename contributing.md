@@ -6,14 +6,13 @@ Thank you for your interest in Code Collabo. We welcome and encourage anyone wit
 
 You can contribute in any of these areas: `nodejs development`, `mongoDB development`, `unit testing`, `documentation` & `research`. 
 
-Contributing guide is different depending on the project you are working on.
+📌 Contributing guide is different depending on the project you are working on.
 
 Please go through this general guidelines and the one specific to the particular project(s) you've chosen to work on, before you start contributing to any of Code Collabo's projects.
 
 ### General - all repos
 * Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://github.com/code-collabo/node-mongo-docs/issues/2) on how to make changes to the code base and submit pull request.
-
-Feel free to ask questions concerning anything not clear after you have read the general guide and guide specific to the project(s) you want to work on. Just [ask your question(s) in the comment here](https://github.com/code-collabo/node-mongo-cli/issues/29), or in the comment under the issue you wish to work on and you'll be attended to.
+* Feel free to ask questions concerning anything not clear after you have read the general guide and guide specific to the project(s) you want to work on. Just [ask your question(s) in the comment here](https://github.com/code-collabo/node-mongo-cli/issues/29), or in the comment under the issue you wish to work on and you'll be attended to.
 
 _Tag **@Ifycode** in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
 
