@@ -8,3 +8,4 @@ Eslint has already been set up and automated for development purpose. Babel also
 ## Navigating the code base
 The table containing list of features along with their files has been added, to help find code for issue(s) you're working on easily.
 
+Adding table soon...
