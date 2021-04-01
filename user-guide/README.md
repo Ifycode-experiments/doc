@@ -9,8 +9,7 @@
 * [How to use](https://github.com/code-collabo/docs/blob/main/user-guide/node-mongo-cli/how-to-use.md)
 
 ### node-mongo-starter-kit
-
-* [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-starter-kit/development.md)
+* [How to use](https://github.com/code-collabo/docs/blob/main/user-guide/node-mongo-starter-kit/how-to-use.md)
 
 |[Docs home](https://github.com/code-collabo/docs)|[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
 |---|---|
