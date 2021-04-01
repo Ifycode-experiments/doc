@@ -6,10 +6,7 @@
 * [How to use](https://github.com/code-collabo/docs/blob/main/user-guide/less-css-helper-library/how-to-use.md)
 
 ### node-mongo-cli
-
-* [Project details](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/project-details.md)
-* [First task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/first-task.md)
-* [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/development.md)
+* [How to use](https://github.com/code-collabo/docs/blob/main/user-guide/node-mongo-cli/how-to-use.md)
 
 ### node-mongo-starter-kit
 
