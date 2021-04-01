@@ -1,1 +1,1 @@
-# User guide intro here
+# User guide
