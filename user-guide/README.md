@@ -14,5 +14,5 @@
 
 * [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-starter-kit/development.md)
 
-|[Back to docs home](https://github.com/code-collabo/docs)|[Go to contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
+|[Docs home](https://github.com/code-collabo/docs)|[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
 |---|---|
