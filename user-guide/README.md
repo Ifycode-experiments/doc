@@ -2,8 +2,7 @@
 
 ## Projects
 ### less-css-helper-library
-
-* [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/less-css-helper-library/development.md)
+* [Styles and classes](https://github.com/code-collabo/docs/blob/main/user-guide/less-css-helper-library/styles-and-classes.md)
 
 ### node-mongo-cli
 
