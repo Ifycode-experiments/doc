@@ -18,7 +18,7 @@ See ***[contributing.md](https://github.com/code-collabo/docs/blob/main/contribu
 
 ## Contributors ✨
 
-Thanks to these wonderful people helping to improve ***Code Collabo docs*** ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks to these wonderful people helping to improve ***Code Collabo docs*** [= (emoji key) =>](https://allcontributors.org/docs/en/emoji-key)
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
