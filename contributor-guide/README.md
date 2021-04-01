@@ -14,7 +14,7 @@
 * [Project details](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/project-details.md)
 * [First task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/first-task.md)
 * [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/development.md)
-
+* [Resources](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/resources.md)
 ### node-mongo-starter-kit
 * [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-starter-kit/development.md)
 
