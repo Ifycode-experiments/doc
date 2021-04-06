@@ -27,8 +27,8 @@ If you find that some frequently used in-built css styles are not yet included i
 
 ### node-mongo project repos
 The following repos make up the ***node-mongo project***: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
-* Completing the [first task assignment](https://github.com/code-collabo/node-mongo-cli/issues/1#issuecomment-785559734) is compulsory, for contributors that are interested in working on (i.e. submitting or reviewing code for) issues with `cli-only` label or `starter-kit-only` label.
-* Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. See [contribution & community guidelines](https://github.com/code-collabo/node-mongo-docs/issues/3) for complete details.
+* Completing the [first task assignment](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md) is compulsory, for contributors that are interested in working on (i.e. submitting or reviewing code for) issues with `cli-only` label or `starter-kit-only` label.
+* Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. 
 * You can [report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
 
 ## List of contributors
