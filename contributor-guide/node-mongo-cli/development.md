@@ -9,7 +9,9 @@ _You can decide to open separate terminals for each while you work on the CLI in
 
 ## Commands and test cases
 
+<!--
 ## Navigating the code base
 The table containing list of features along with their files has been added, to help find code for issue(s) you're working on easily.
 
 Adding table soon...
+-->
