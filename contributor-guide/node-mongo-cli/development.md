@@ -7,7 +7,7 @@ Jasmine and eslint have already been set up and automated for development purpos
 * To run **jasmine tests**, use `npm test` or `npm test -s`.
 _You can decide to open separate terminals for each while you work on the CLI in another terminal_.
 
-## Commands
+## Commands and test cases
 
 ## Navigating the code base
 The table containing list of features along with their files has been added, to help find code for issue(s) you're working on easily.
