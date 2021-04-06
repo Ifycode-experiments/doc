@@ -8,7 +8,9 @@ After cloning your fork on to your computer as explained in the ***[git workflow
 ## Making and testing changes
 Add link to article here later...
 
+<!--
 ## Navigating the code base
 The table containing grouped css classes along with their files has been added, to help find code for issue(s) you're working on easily.
 
 Adding table soon...
+-->
