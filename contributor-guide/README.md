@@ -11,7 +11,7 @@
 * [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/less-css-helper-library/development.md)
 
 ### node-mongo-cli
-* [Project details](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/project-details.md)
+* [Project details: 1st release](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/project-details.md)
 * [First task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/first-task.md)
 * [Development](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/development.md)
 * [Resources](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-cli/resources.md)
