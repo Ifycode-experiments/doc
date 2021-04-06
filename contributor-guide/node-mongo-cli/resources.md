@@ -1,4 +1,4 @@
-# node-mongo-cli resources
+# node-mongo project resources
 
 A number of resources have been put together to help understand the project (as is the case with [first task](https://github.com/code-collabo/node-mongo-cli/issues/1)), or have an understanding of the sources that the existing code came from - see [contribution guidelines](https://github.com/code-collabo/node-mongo-docs/issues/3) too.
 
