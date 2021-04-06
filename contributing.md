@@ -17,8 +17,7 @@ Please go through the general guidelines below and the one specific to the parti
 _Tag **@Ifycode** in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
 
 ### docs repo
-If you find issues with any part of the documentation, you can report the issue. You will be asked to help work on it or it will be assigned to someone else (if you don't have time). As documentation is very delicate and for orderliness please follow these guidelines:
-* Do not submit a pull request for an issue you have not been asked to help with or assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. See [contribution & community guidelines](https://github.com/code-collabo/node-mongo-docs/issues/3) for complete details.
+If you find issues with any part of the documentation, you can report the issue. You will be asked to help work on it or it will be assigned to someone else (if you don't have time).
 * You can [report or find issues to work on here](https://github.com/code-collabo/docs/issues).
 
 ### less-css-helper-library repo
