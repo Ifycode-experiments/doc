@@ -18,7 +18,7 @@ Like the name ***node-mongo*** suggests, we will be working on package(s) built 
 
 #### Our cli is to work in this manner (1st release):
 
-* Use commands to install/create a new mongoDB project, adding our [pre-built](https://github.com/code-collabo/node-mongo-starter-kit) folders and files with their respective content into the project.
+* Use commands to install/create a new mongoDB project, adding our [starter-kit's](https://github.com/code-collabo/node-mongo-starter-kit) folders and files with their respective content into the project.
 * The cli will be interactive. For example, asking if the user wants to use typescript in the project the user is creating. This way it will know what packages, file extensions or content to install. 
 
 We will split the above mentioned tasks into much smaller tasks and open issues for them as the project progresses. 
@@ -46,7 +46,7 @@ In the initial stage of the project, we will only be involving very few trusted 
 
 #### Important! 📌
 
-Completing the [first task](https://github.com/code-collabo/node-mongo-cli/issues/1#issuecomment-785559734) is compulsory for issues that have `cli-only` or `starter-kit-only` labels on them. It is to prepare those interested in contributing to the major part of the project for learning how to make a nodejs cli, and understanding the modifications we will be making to the node-mongo-cli project.
+Completing the [first task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md) is compulsory for issues that have `cli-only` or `starter-kit-only` labels on them. It is to prepare those interested in contributing to the major part of the project for learning how to make a nodejs cli, and understanding the modifications we will be making to the node-mongo-cli project.
 
 #### Generally, you will need these to contribute:
 
@@ -78,14 +78,19 @@ Node-mongo-cli project (officially) started on 16th of March, 2020. All previous
 * [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli).
 * [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit).
 * [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs).
-* [node-mongo-docs](https://github.com/code-collabo/node-mongo-docs).
+* [node-mongo-docs](https://github.com/code-collabo/docs).
 
 ***Resources***:
 
-[Find project resources here](https://github.com/code-collabo/node-mongo-docs/issues/1).
+[Find project resources here](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/resources.md).
 
 Pardon me for writing such a long text. It's so you can get a comprehensive and clear picture of what the project will achieve. Thanks for patiently reading through. 
 
-Please proceed to [first task](https://github.com/code-collabo/node-mongo-cli/issues/1#issuecomment-785559734) 👇🏽
+Please proceed to [first task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md) 👈🏽
 
-Obiagba Mary.
+Obiagba Mary,\
+Code Collabo Community.
+
+|[First task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md)|[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
+|---|---|
+
