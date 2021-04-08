@@ -22,12 +22,15 @@ Run the following commands to test:
 
 Commands that work alike have been grouped together below. Run the following commands to test:
 ##
+##### Installs dependencies and initializes git
 * `node-mongo a1`
 * `node-mongo a2 -i -g`
 ##
+##### Skips Install and initializes git
 * `node-mongo a3 -s`
 * `node-mongo a4 -s -g`
 ##
+##### Skips install and skips git init
 * `node-mongo a5 -s -x`
 * `node-mongo a6 -y`
 ##
