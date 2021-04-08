@@ -9,6 +9,17 @@ _You can decide to open separate terminals for each while you work on the CLI in
 
 ## Commands and test cases
 
+There are 3 templates - `es6+`, `cjs`, `ts-es6+`. The `es6+` template is the default template. A folder is automatically created from your entry, and automatically downloads the template files too.
+
+Run the following commands to test:
+* `node-mongo ts-folder ts-es6+`
+* `node-mongo` 
+* `node-mongo cjs-folder cjs` 
+* `node-mongo other java`
+
+|[Docs home](https://github.com/code-collabo/docs)|[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
+|---|---|
+
 <!--
 ## Navigating the code base
 The table containing list of features along with their files has been added, to help find code for issue(s) you're working on easily.
