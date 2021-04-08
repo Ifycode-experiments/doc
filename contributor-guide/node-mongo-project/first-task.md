@@ -10,11 +10,15 @@ The task is simple.
 
 |You are new to making a cli package?|
 | :--- |
-|So am I. We'll reach out to each other if any issue comes up while taking the tutorial. Just show interest by finishing & submitting the task as instructed.|
+|No worries. Just show interest by finishing and submitting the task as instructed. Reach out to ***@Ifycode*** incase you run into any issues.|
 
 #### How to submit? 📌
 * [Fill this form](https://docs.google.com/forms/d/e/1FAIpQLScwAURC0rseFGtwCyUVPdbPYXCc-rixRQb_HnWW9OzZdemfig/viewform) (you will be needing the link to your github source code). 
 
-After submitting the task, [proceed to read about how to contribute to the project](https://github.com/code-collabo/node-mongo-cli/issues/29#issue-830987170) (if you haven't) and [pick any issue to work on](https://github.com/code-collabo/node-mongo-cli/issues) - following the guidelines.
+After submitting the task, [read up our contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) (if you haven't) and [pick any issue to work on](https://github.com/code-collabo/node-mongo-cli/issues) - following the guidelines.
 
 Good luck!
+
+|[Docs home](https://github.com/code-collabo/docs)|[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
+|---|---|
+
