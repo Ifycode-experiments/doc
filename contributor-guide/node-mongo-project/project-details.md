@@ -1,10 +1,10 @@
-# node-mongo-cli project details
+# node-mongo project details
 
 ## Introduction
 
-Hi, thanks for your interest to collabo(rate) and contribute to @code-collabo's  **node-mongo-cli project**. Straight to the point => I want every next project involving nodejs and mongoDB to be dead easy for me. A project which will also be useful to others be it a contributor or user.
+Hi, thank you for your interest to collabo(rate) and contribute to @code-collabo's  **node-mongo project**. Straight to the point => I want every next project involving nodejs and mongoDB to be dead easy for me. A project which will also be useful to others be it a contributor or user.
 
-I'll talk about the project in detail under the following headings: 
+I will talk about the project in detail under the following headings: 
 * About project.
 * Who can contribute, prerequisites & tools.
 * Project breakdown.
