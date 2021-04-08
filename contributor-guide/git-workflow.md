@@ -44,7 +44,7 @@ Then use the command:
 You can pull from any branch, but you'll get latest updates for that branch only - if it's not the main branch. Just checkout to that branch `git checkout branch-name` and use the `git pull` command.
 -->
 
-## Gitflow & branches
+## Gitflow and branches
 The only time you have business with the main branch is if you choose to pull changes while in the main branch as explained in ***updating your fork***. 
 
 📌 ***You are not to make changes to main branch, as it contains the production-ready version of the code***. 
@@ -91,3 +91,7 @@ Push every other time:
 Next create & send a `pull request` so that your code can be reviewed. Also add description & testing checklist to your pull request. See examples of previously made pull requests for how to go about this:
 * [Pull request 7](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302) 
 * [Pull request 21](https://github.com/code-collabo/node-mongo-cli/pull/21#issue-589792008)
+
+|[Docs home](https://github.com/code-collabo/docs)|[Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide)|
+|---|---|
+
