@@ -14,7 +14,7 @@ I will talk about the project in detail under the following headings:
 
 ## About project
 
-Like the name [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli) suggests, we will be working on a cli package made with nodejs and will involve mongoDB. The project is inspired by angular framework (and the likes). 
+Like the name ***node-mongo*** suggests, we will be working on package(s) built with nodejs and will involve mongoDB. This will include a [cli](https://github.com/code-collabo/node-mongo-cli) and [starter-kit](https://github.com/code-collabo/node-mongo-starter-kit). The starter-kit will have 3 templates - `es6`, `cjs` and `ts-es6` i.e. templates for es6+ syntax, commonJS syntax and typescript. The project is inspired by angular framework (and the likes). 
 
 #### Our cli is to work in this manner (1st release):
 
