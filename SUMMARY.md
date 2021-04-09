@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Code Collabo Docs](README.md)
+* [Docs home](README.md)
 * [Contribution guidelines](contributing.md)
 * [Contributor Covenant Code of Conduct](code_of_conduct.md)
 * [Contributor guide](contributor-guide/README.md)
