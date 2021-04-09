@@ -1,4 +1,4 @@
-# Project resources
+# node-mongo project resources
 
 A number of resources have been put together to help understand the project \(as is the case with [first task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md)\), or have an understanding of the sources where the idea used to write the base code came from.
 
