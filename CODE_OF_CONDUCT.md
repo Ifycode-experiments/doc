@@ -59,8 +59,7 @@ representative at an online or offline event.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement 
-(through this form)[https://docs.google.com/forms/d/e/1FAIpQLSf2qUpFupwAEbe32QnPdvgTXeUqBWf4GXQLFHVKVxjLi0MjLQ/viewform?usp=sf_link].
+reported to the community leaders responsible for enforcement [through this form](https://docs.google.com/forms/d/e/1FAIpQLSf2qUpFupwAEbe32QnPdvgTXeUqBWf4GXQLFHVKVxjLi0MjLQ/viewform?usp=sf_link).
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
