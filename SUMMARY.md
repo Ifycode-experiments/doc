@@ -2,7 +2,7 @@
 
 * [Docs home](README.md)
 * [Contribution guidelines](contributing.md)
-* [Contributor Covenant Code of Conduct](code_of_conduct.md)
+* [Code of Conduct](code_of_conduct.md)
 * [Contributor guide](contributor-guide/README.md)
   * [Git workflow](contributor-guide/git-workflow.md)
   * [less-css-helper-library](contributor-guide/less-css-helper-library/README.md)
