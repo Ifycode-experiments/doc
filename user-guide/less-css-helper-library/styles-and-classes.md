@@ -1,6 +1,8 @@
-# less-css-helper-library
+---
+description: less-css-helper-library user guide
+---
 
-## Styles & classes
+# Styles & classes
 
 The library provides some [reset styles](https://github.com/code-collabo/less-css-helper-library/blob/main/less/01-base/reset.less) and classes which you can apply on html elements.
 

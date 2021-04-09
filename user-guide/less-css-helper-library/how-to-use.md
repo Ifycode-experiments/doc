@@ -1,6 +1,8 @@
-# less-css-helper-library
+---
+description: less-css-helper-library user guide
+---
 
-## How to use
+# Installation and use
 
 Install the npm package or use the cdn option.
 

@@ -1,4 +1,4 @@
-# node-mongo project details
+# Project details
 
 ## Introduction
 
