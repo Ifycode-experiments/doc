@@ -1,0 +1,2 @@
+# node-mongo-starter-kit
+
