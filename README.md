@@ -17,11 +17,5 @@ See [contributing.md](https://github.com/code-collabo/docs/blob/main/contributin
 
 ## Meet our awesome contributors ✨
 
-Thanks to these wonderful people helping to improve _**Code Collabo docs**_ [= \(emoji key\) =&gt;](https://allcontributors.org/docs/en/emoji-key)
-
-| [![](https://avatars.githubusercontent.com/u/45185388?v=4?s=100) **Obiagba Mary Ifeoma**](https://github.com/Ifycode) [📖](https://github.com/code-collabo/docs/commits?author=Ifycode) [💻](https://github.com/code-collabo/docs/commits?author=Ifycode) [🚇](./#infra-Ifycode) [🚧](./#maintenance-Ifycode) [👀](https://github.com/code-collabo/docs/pulls?q=is%3Apr+reviewed-by%3AIfycode) [📆](./#projectManagement-Ifycode) [🤔](./#ideas-Ifycode) |
-| :--- |
-
-
-See complete list of Code Collabo contributors in the [all-contributors.md](https://github.com/code-collabo/docs/blob/main/all-contributors.md).
+[Thanks to these wonderful people](https://code-collabo.gitbook.io/docs-code-collabo/meet-our-awesome-contributors/all-contributors) helping to improve some or all aspects of the [Code Collabo project](https://github.com/code-collabo)_**.**_ 
 
