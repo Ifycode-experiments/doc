@@ -1,8 +1,8 @@
 ---
-description: Contributor guide's content
+description: Contributor guide's content summary
 ---
 
-# Guide summary
+# Contributor guide summary
 
 ### Contribution and community guidelines
 
