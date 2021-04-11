@@ -15,7 +15,7 @@ See [contributing.md](https://github.com/code-collabo/docs/blob/main/contributin
 * [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide): Guide for development setup, workflow and other useful information relevant to contributing to Code Collabo's projects can be found here.
 * [User guide](https://github.com/code-collabo/docs/tree/main/user-guide): Installation guide and how-to-use tutorials for users of Code Collabo's projects can be found here.
 
-## Contributors ✨
+## Meet our awesome contributors ✨
 
 Thanks to these wonderful people helping to improve _**Code Collabo docs**_ [= \(emoji key\) =&gt;](https://allcontributors.org/docs/en/emoji-key)
 
