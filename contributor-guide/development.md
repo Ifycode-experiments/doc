@@ -11,7 +11,3 @@ After cloning your fork on to your computer as explained in the [git workflow pa
 
 See [article: quick, effective and efficient way to test your separately hosted css library on your client during development](https://dev-obiagba.hashnode.dev/quick-effective-and-efficient-way-to-test-your-separately-hosted-css-library-on-your-client-during-development-1) for how to make and test the changes you make to the library.
 
-| [Docs home](https://github.com/code-collabo/docs) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-

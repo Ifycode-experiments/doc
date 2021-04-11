@@ -91,7 +91,3 @@ Please proceed to [first task](https://github.com/code-collabo/docs/blob/main/co
 
 Obiagba Mary, Code Collabo Community.
 
-| [First task](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-

@@ -44,7 +44,3 @@ Commands that work alike have been grouped together below. Run the following com
 
   📌 Ensure to delete the generated folders before committing your changes and sending a pull request.
 
-| [Docs home](https://github.com/code-collabo/docs) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-

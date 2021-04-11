@@ -86,7 +86,3 @@ Next create & send a `pull request` so that your code can be reviewed. Also add 
 * [Pull request 7](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302) 
 * [Pull request 21](https://github.com/code-collabo/node-mongo-cli/pull/21#issue-589792008)
 
-| [Docs home](https://github.com/code-collabo/docs) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-

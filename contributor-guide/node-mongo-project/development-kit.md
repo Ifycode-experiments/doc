@@ -11,7 +11,3 @@ Eslint has already been set up and automated for development purpose. Babel also
 
 There are two options - `installed MongoDB` option and `MongoDB ATLAS` option. To setup successful connection for whichever option you wish to use for your project, follow the guide written in yellow, which comes up after `Server running at http://localhost:3000` and `Error in DB connection` message in the console.
 
-| [Docs home](https://github.com/code-collabo/docs) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-

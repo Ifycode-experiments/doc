@@ -20,7 +20,3 @@ After submitting the task, [read up our contributor guide](https://github.com/co
 
 Good luck!
 
-| [Docs home](https://github.com/code-collabo/docs) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-

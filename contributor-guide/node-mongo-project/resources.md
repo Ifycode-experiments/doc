@@ -19,7 +19,3 @@ Feel free to use other materials alongside these. You can also [suggest good res
 * [Building a restful API with node.js](https://academind.com/tutorials/building-a-restful-api-with-nodejs/).
 * [MEAN stack CRUD operations](https://youtu.be/UYh6EvpQquw) - _1st 33 minutes_.
 
-| [Docs home](https://github.com/code-collabo/docs) | [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide) |
-| :--- | :--- |
-
-
