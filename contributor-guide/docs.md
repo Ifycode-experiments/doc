@@ -2,7 +2,7 @@
 description: Integration with gitbook and development
 ---
 
-# code-collabo docs
+# Documentation
 
 ### Integration and development
 

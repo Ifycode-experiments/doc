@@ -1,6 +1,6 @@
 # Docs home
 
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](./#contributors-) 
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](./#contributors-)
 
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat) ![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)
 
@@ -17,5 +17,5 @@ See [contributing.md](https://github.com/code-collabo/docs/blob/main/contributin
 
 ## Meet our contributors ✨
 
-[Thanks to these wonderful people](https://code-collabo.gitbook.io/docs-code-collabo/meet-our-awesome-contributors/all-contributors) helping to improve some or all aspects of the [Code Collabo project](https://github.com/code-collabo)_**.**_ 
+[Thanks to these wonderful people](https://code-collabo.gitbook.io/docs-code-collabo/meet-our-awesome-contributors/all-contributors) helping to improve some or all aspects of the [Code Collabo project](https://github.com/code-collabo)_**.**_
 
