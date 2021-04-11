@@ -4,20 +4,18 @@
 * [Contribution guidelines](contributing.md)
 * [Code of Conduct](code_of_conduct.md)
 
-## Contributor Guide <a id="contributor-guide-1"></a>
+## Contributor Guide
 
-* [Contributor guide](contributor-guide-1/contributor-guide/README.md)
-  * [Git workflow](contributor-guide-1/contributor-guide/git-workflow.md)
-  * [less-css-helper-library](contributor-guide-1/contributor-guide/less-css-helper-library/README.md)
-    * [less-css-helper-library development](contributor-guide-1/contributor-guide/less-css-helper-library/development.md)
-  * [node-mongo-project](contributor-guide-1/contributor-guide/node-mongo-project/README.md)
-    * [Project details](contributor-guide-1/contributor-guide/node-mongo-project/project-details.md)
-    * [First Task 📌](contributor-guide-1/contributor-guide/node-mongo-project/first-task.md)
-    * [Project resources](contributor-guide-1/contributor-guide/node-mongo-project/resources.md)
-    * [node-mongo-cli](contributor-guide-1/contributor-guide/node-mongo-project/node-mongo-cli/README.md)
-      * [node-mongo-cli development](contributor-guide-1/contributor-guide/node-mongo-project/node-mongo-cli/development.md)
-    * [node-mongo-starter-kit](contributor-guide-1/contributor-guide/node-mongo-project/node-mongo-starter-kit/README.md)
-      * [starter-kit development](contributor-guide-1/contributor-guide/node-mongo-project/node-mongo-starter-kit/development.md)
+* [Summary](contributor-guide/summary.md.md)
+* [Git workflow](contributor-guide/git-workflow.md)
+* [less-css-helper-library development](contributor-guide/development.md)
+* [node-mongo-project](contributor-guide/node-mongo-project/README.md)
+  * [Project details](contributor-guide/node-mongo-project/project-details.md)
+  * [First Task 📌](contributor-guide/node-mongo-project/first-task.md)
+  * [Project resources](contributor-guide/node-mongo-project/resources.md)
+  * [node-mongo-cli development](contributor-guide/node-mongo-project/development.md)
+  * [starter-kit development](contributor-guide/node-mongo-project/development-1.md)
+* [Contributor guide](contributor-guide/contributor-guide-old.md)
 
 ---
 
