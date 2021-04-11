@@ -6,7 +6,7 @@
 
 ## Contributor Guide
 
-* [Summary](contributor-guide/summary.md.md)
+* [Summary](contributor-guide/summary.md)
 * [Git workflow](contributor-guide/git-workflow.md)
 * [less-css-helper-library development](contributor-guide/development.md)
 * [node-mongo-project](contributor-guide/node-mongo-project/README.md)
