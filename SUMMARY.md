@@ -14,7 +14,7 @@
   * [First Task 📌](contributor-guide/node-mongo-project/first-task.md)
   * [Project resources](contributor-guide/node-mongo-project/resources.md)
   * [node-mongo-cli development](contributor-guide/node-mongo-project/development.md)
-  * [starter-kit development](contributor-guide/node-mongo-project/development-1.md)
+  * [starter-kit development](contributor-guide/node-mongo-project/development-kit.md)
 
 ---
 
