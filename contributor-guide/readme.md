@@ -1,5 +1,5 @@
 ---
-description: Contributor guide's table of content
+description: Contributor guide's content
 ---
 
 # Guide summary
