@@ -8,6 +8,7 @@
 
 * [Contributor guide](contributor-guide/readme.md)
 * [Git workflow](contributor-guide/git-workflow.md)
+* [code-collabo docs](contributor-guide/code-collabo-docs.md)
 * [less-css-helper-library development](contributor-guide/development.md)
 * [node-mongo project](contributor-guide/node-mongo-project/README.md)
   * [Project details](contributor-guide/node-mongo-project/project-details.md)
