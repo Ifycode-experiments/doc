@@ -6,7 +6,7 @@
 
 ## Contributor Guide
 
-* [Contributor guide summary](contributor-guide/readme.md)
+* [Contributor guide](contributor-guide/readme.md)
 * [Git workflow](contributor-guide/git-workflow.md)
 * [less-css-helper-library development](contributor-guide/development.md)
 * [node-mongo project](contributor-guide/node-mongo-project/README.md)
@@ -18,7 +18,7 @@
 
 ## User guide
 
-* [User guide summary](user-guide/user-guide-summary.md)
+* [User guide](user-guide/user-guide-summary.md)
 * [less-css-helper-library](user-guide/less-css-helper-library/README.md)
   * [Styles and classes](user-guide/less-css-helper-library/styles-and-classes.md)
   * [Installation and use](user-guide/less-css-helper-library/how-to-use.md)

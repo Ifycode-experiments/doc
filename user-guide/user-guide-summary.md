@@ -2,7 +2,7 @@
 description: User guide's content summary
 ---
 
-# User guide summary
+# User guide
 
 ### Projects in alphabetical order
 

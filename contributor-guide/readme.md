@@ -2,7 +2,7 @@
 description: Contributor guide's content summary
 ---
 
-# Contributor guide summary
+# Contributor guide
 
 ### Contribution and community guidelines
 
