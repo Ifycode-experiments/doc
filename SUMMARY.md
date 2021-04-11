@@ -6,7 +6,7 @@
 
 ## Contributor Guide
 
-* [Summary](contributor-guide/summary.md)
+* [Guide summary](contributor-guide/summary.md)
 * [Git workflow](contributor-guide/git-workflow.md)
 * [less-css-helper-library development](contributor-guide/development.md)
 * [node-mongo-project](contributor-guide/node-mongo-project/README.md)
@@ -15,7 +15,6 @@
   * [Project resources](contributor-guide/node-mongo-project/resources.md)
   * [node-mongo-cli development](contributor-guide/node-mongo-project/development.md)
   * [starter-kit development](contributor-guide/node-mongo-project/development-1.md)
-* [Contributor guide](contributor-guide/contributor-guide-old.md)
 
 ---
 
