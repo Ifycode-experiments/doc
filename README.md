@@ -16,7 +16,7 @@ Code Collabo docs content has been arranged such that it is easy to quickly navi
 
 ## Contribution and community guidelines
 
-See [contributing.md](https://github.com/code-collabo/docs/blob/main/contributing.md) and [CODE\_OF\_CONDUCT](https://github.com/code-collabo/docs/blob/main/CODE_OF_CONDUCT.md) for how to make contributions, and how to conduct yourself while going about activities on the platform.
+See [contributing.md](https://github.com/code-collabo/docs/blob/main/contributing.md) and [code\_of\_conduct](https://github.com/code-collabo/docs/blob/main/CODE_OF_CONDUCT.md) for how to make contributions, and how to conduct yourself while going about activities on the platform.
 
 ## Contributor and user guide
 
