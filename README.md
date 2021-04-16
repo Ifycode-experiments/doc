@@ -6,8 +6,7 @@
 
 ## Welcome to Code Collabo Community! 👋🏽
 
-[<img alt="Code Collabo header image" src="https://github.com/Ifycode/Ifycode/blob/main/code-collabo-github.png" />](https://github.com/code-collabo/node-mongo-cli)
-
+![Code collabo docs header image](https://github.com/Ifycode/Ifycode/blob/main/code-collabo-github.png)
 
 This is the official documentation for the [Code Collabo project](https://github.com/code-collabo). ***Code Collabo*** is a free and open source community. We create and build awesome, real world, [open source projects](), which benefit both contributors and users alike. 
 
