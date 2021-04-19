@@ -1,4 +1,4 @@
-# All contributors
+# All contributors ✨ 
 
 [Thanks to our awesome contributors](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) helping to develop and/or improve the [Code Collabo project](https://github.com/code-collabo)_**.**_ This section of the documentation has been dedicated and reserved for you to recognize your efforts. In case you have contributed to any of Code Collabo's projects but don't find your name in the list below, please let us know so that you can be added. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key). 
 
