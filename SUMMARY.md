@@ -19,7 +19,7 @@
 
 ## User guide
 
-* [User guide](user-guide/user-guide-summary.md)
+* [User guide](user-guide/user-guide.md)
 * [less-css-helper-library](user-guide/less-css-helper-library/README.md)
   * [Styles and classes](user-guide/less-css-helper-library/styles-and-classes.md)
   * [Installation and use](user-guide/less-css-helper-library/how-to-use.md)

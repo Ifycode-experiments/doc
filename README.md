@@ -16,14 +16,14 @@ Code Collabo docs content has been arranged such that it is easy to quickly navi
 
 ## Contribution and community guidelines
 
-See [contributing.md](https://github.com/code-collabo/docs/blob/main/contributing.md) and [code\_of\_conduct](https://github.com/code-collabo/docs/blob/main/CODE_OF_CONDUCT.md) for how to make contributions, and how to conduct yourself while going about activities on the platform.
+See [contributing.md](https://code-collabo.gitbook.io/docs/contributing) and [code\_of\_conduct](https://code-collabo.gitbook.io/docs/code_of_conduct) for how to make contributions, and how to conduct yourself while going about activities on the platform.
 
 ## Contributor and user guide
 
-* [Contributor guide](https://github.com/code-collabo/docs/tree/main/contributor-guide): Guide for development setup, workflow and other useful information relevant to contributing to Code Collabo's projects can be found here.
-* [User guide](https://github.com/code-collabo/docs/tree/main/user-guide): Installation guide and how-to-use tutorials for users of Code Collabo's projects can be found here.
+* [Contributor guide](https://code-collabo.gitbook.io/docs/contributor-guide/contributor-guide): Guide for development setup, workflow and other useful information relevant to contributing to Code Collabo's projects can be found here.
+* [User guide](https://code-collabo.gitbook.io/docs/user-guide/user-guide): Installation guide and how-to-use tutorials for users of Code Collabo's projects can be found here.
 
 ## Meet our contributors ✨
 
-[Thanks to these wonderful people](https://code-collabo.gitbook.io/docs-code-collabo/meet-our-awesome-contributors/all-contributors) helping to improve some or all aspects of the [Code Collabo project](https://github.com/code-collabo)_**.**_
+[Thanks to our awesome contributors](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) helping to improve the [Code Collabo project](https://github.com/code-collabo)_**.**_
 
