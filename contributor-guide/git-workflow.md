@@ -26,7 +26,9 @@ In summary, just checkout to the branch you want to pull changes into `git check
 
 The only time you have business with the main branch is if you choose to pull changes while in the main branch as explained in _**updating your fork**_.
 
-📌 _**You are not to make changes to main branch, as it contains the production-ready version of the code**_.
+{% hint style="info" %}
+You are not to make changes to main branch, as it contains the production-ready version of the code.
+{% endhint %}
 
 A branch with name `develop` has been created for development purpose.
 
