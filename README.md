@@ -23,7 +23,7 @@ See [contributing.md](https://code-collabo.gitbook.io/docs/contributing) and [co
 * [Contributor guide](https://code-collabo.gitbook.io/docs/contributor-guide/contributor-guide): Guide for development setup, workflow and other useful information relevant to contributing to Code Collabo's projects can be found here.
 * [User guide](https://code-collabo.gitbook.io/docs/user-guide/user-guide): Installation guide and how-to-use tutorials for users of Code Collabo's projects can be found here.
 
-## Meet our contributors ✨
+## Meet our contributors ✨ 
 
 [Thanks to our awesome contributors](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) helping to improve the [Code Collabo project](https://github.com/code-collabo)_**.**_
 

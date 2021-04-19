@@ -13,7 +13,7 @@ Please go through the general guidelines below and the one specific to the parti
 * If a repo has a `develop` branch, create your `feature branch` from develop. If there's no develop branch then create it from the `main` branch. Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to the code base and submit pull request.
 * Feel free to ask questions in the comment there in the issue you wish to tackle - concerning anything not clear after you have read the general guide, and guide specific to the project\(s\) you want to work on.
 
-_Tag **@Ifycode** in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
+_Tag_ [@Ifycode](https://github.com/Ifycode) _in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
 
 ### docs repo
 
@@ -32,7 +32,7 @@ If you find that some frequently used in-built css styles are not yet included i
 
 ### node-mongo project repos
 
-The following repos make up the _**node-mongo project**_: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
+The following repos make up the [node-mongo project](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project): [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
 
 * Completing the [first task assignment](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project/first-task) is compulsory, for contributors that are interested in working on \(i.e. submitting or reviewing code for\) issues with `cli-only` label or `starter-kit-only` label.
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. 
