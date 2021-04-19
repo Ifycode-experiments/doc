@@ -27,12 +27,14 @@ In summary, just checkout to the branch you want to pull changes into `git check
 The only time you have business with the main branch is if you choose to pull changes while in the main branch as explained in _**updating your fork**_.
 
 {% hint style="info" %}
-You are not to make changes to main branch, as it contains the production-ready version of the code.
+You are not to make changes to **main branch**, as it contains the production-ready version of the code.
 {% endhint %}
 
 A branch with name `develop` has been created for development purpose.
 
-📌 _**Also, you are not to make changes to the develop branch**_. Instead, **create a** `feature branch` **from the develop branch** and make your changes there.
+{% hint style="info" %}
+Also, you are not to make changes to the _****_**develop branch**. Instead, **create a feature branch** **from the develop branch** and make your changes there.
+{% endhint %}
 
 ## Creating a feature branch
 
@@ -40,7 +42,9 @@ Checkout to develop to ensure the feature branch you will create is a copy of th
 
 Create a feature branch while inside develop branch: `git checkout -b feature-branch-name-here`
 
-📌 _**Always make sure you checkout to develop branch before creating a new feature branch**_.
+{% hint style="info" %}
+ Always make sure you checkout to develop branch before creating a new feature branch.
+{% endhint %}
 
 ## Naming a feature branch
 
