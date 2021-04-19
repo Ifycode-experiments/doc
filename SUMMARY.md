@@ -30,5 +30,5 @@
 
 ## Meet our awesome contributors
 
-* [All contributors ✨](meet-our-awesome-contributors/all-contributors.md)
+* [All contributors](meet-our-awesome-contributors/all-contributors.md)
 
