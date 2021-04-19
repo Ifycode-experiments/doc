@@ -1,8 +1,10 @@
+---
+description: General and repo-specific guidelines
+---
+
 # Contribution guidelines
 
-Thank you for your interest in Code Collabo. We welcome and encourage anyone with any level of experience to contribute to any or all aspects of Code Collabo's projects.
-
-You can contribute in any of these areas: `nodejs development`, `mongoDB development`, `unit testing`, `documentation` & `research`.
+Thank you for your interest in Code Collabo. We welcome and encourage anyone with any level of experience to contribute to any or all aspects of Code Collabo's projects. You can contribute in any of these areas: nodejs development, mongoDB development, testing, documentation & research.
 
 📌 _**Note:**_ Contribution guideline is different depending on the project you are working on.
 
@@ -15,9 +17,9 @@ Please go through the general guidelines below and the one specific to the parti
 
 _Tag_ [@Ifycode](https://github.com/Ifycode) _in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
 
-### docs repo
+### Documentation
 
-If you find issues with any part of the [documentation](https://github.com/code-collabo/docs), you can report the issue. You will be asked to help work on it or it will be assigned to someone else \(if you don't have time\).
+If you find issues with any part of the documentation - [gitbook](https://code-collabo.gitbook.io/docs/) or [github](https://github.com/code-collabo/docs), you can report the issue. You will be asked to help work on it or it will be assigned to someone else \(if you don't have time\).
 
 * You can [report or find issues to work on here](https://github.com/code-collabo/docs/issues).
 
@@ -32,7 +34,7 @@ If you find that some frequently used in-built css styles are not yet included i
 
 ### node-mongo project repos
 
-The following repos make up the [node-mongo project](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project): [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
+The following repos make up the[ node-mongo](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project) project: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
 
 * Completing the [first task assignment](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project/first-task) is compulsory, for contributors that are interested in working on \(i.e. submitting or reviewing code for\) issues with `cli-only` label or `starter-kit-only` label.
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. 
