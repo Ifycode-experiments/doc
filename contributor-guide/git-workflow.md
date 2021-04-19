@@ -2,29 +2,19 @@
 
 ## Setting up
 
-Fork the Code Collabo repo you want to work on - e.g. [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli).
+**Step 1:** Fork the Code Collabo repo you want to work on. We'll use [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli) as example. Open up your terminal on your computer.
 
-Open up your terminal on your computer and do the following:
+**Step 2:** Clone that forked version onto your computer with:  `git clone git@github.com:your-github-username/node-mongo-cli.git`
 
-* Clone that forked version onto your computer with:
+If you prefer or are using https, use this instead: `git clone https://github.com/your-github-username/node-mongo-cli.git`
 
-  `git clone git@github.com:your-github-username/node-mongo-cli.git`
+**Step 3:** Set original repo as upstream:  `git remote add upstream git@github.com:code-collabo/node-mongo-cli.git`
 
-  If you prefer or are using https:
-
-  `git clone https://github.com/your-github-username/node-mongo-cli.git`
-
-* Set original repo as upstream:
-
-  `git remote add upstream git@github.com:code-collabo/node-mongo-cli.git`
-
-Check that your forked repo's url is set as the origin & original repo's url is set as the upstream with: `git remote -v`
+You can check that your forked repo's url is set as the origin & original repo's url is set as the upstream with: `git remote -v`
 
 ## Updating your fork
 
-Setting original repo as the upstream means you'll be able to update your fork, with the latest changes made to the original repo using the `git pull` command.
-
-Before you start or as you work on the code, update your fork so that you'll be working with latest changes from the original repo.
+Setting original repo as the upstream means you'll be able to update your fork, with the latest changes made to the original repo using the `git pull` command. Before you start or as you work on the code, update your fork so that you'll be working with latest changes from the original repo.
 
 To pull changes for the develop branch for example, checkout to develop: `git checkout develop`
 
@@ -44,45 +34,35 @@ A branch with name `develop` has been created for development purpose.
 
 ## Creating a feature branch
 
-* Checkout to develop to ensure the feature branch you will create is a copy of the develop branch: `git checkout develop`
-* Create a feature branch while inside develop branch: `git checkout -b feature-branch-name-here`
+Checkout to develop to ensure the feature branch you will create is a copy of the develop branch: `git checkout develop` \(If the repo does not have a develop branch, then checkout to main instead\).
 
-| 📌 Note |
-| :--- |
+Create a feature branch while inside develop branch: `git checkout -b feature-branch-name-here`
 
-
-Always make sure you checkout to develop branch before creating a new feature branch.
+📌 _**Always make sure you checkout to develop branch before creating a new feature branch**_.
 
 ## Naming a feature branch
 
-To help admin/reviewers know what you are working on, give your feature branch a descriptive name containing: `issueNumber-action-description`.
+To help reviewers know what you are working on, give your feature branch a descriptive name containing: `issueNumber-action-description`. 
 
-* **IssueNumber:** Check the issue to get issue number. 
+* **IssueNumber:** Check the issue you are working on to get issue number. 
 * **Action:** Words like `fix`,  `setup`,  `feature` etc. 
-* **Description:** What you are setting up, fixing etc.
+* **Description:** What you are setting up, fixing, updating etc.
 
-  So, feature branch name could look like `7-setup-jasmine-test`,  `19-update-readme`, `1001-fix-db-error` etc.
+So, feature branch name could look something like `7-setup-jasmine-test`,  `19-update-readme`, `1001-fix-db-error` etc.
 
 ## Submitting your changes
 
-After you've made the needed changes in the feature branch you created, follow these steps:
+After you've made the needed changes in the feature branch you created, add, commit, push and submit a pull request.
 
-### Add & commit your changes
+Add changes: `git add .`
 
-`git add .`
+Commit changes: `git commit -m "Add your commit message here"`
 
-`git commit -m "Add your commit message here"`
+Push changes from your feature branch to the remote for the first time: `git push -u origin your-branch-name`
 
-### Push changes
+Pushing every other time: `git push`
 
-Push your changes to the remote for the first time: `git push -u origin your-branch-name`
+### Submit pull request
 
-Push every other time: `git push`
-
-### Pull request
-
-Next create & send a `pull request` so that your code can be reviewed. Also add description & testing checklist to your pull request. See examples of previously made pull requests for how to go about this:
-
-* [Pull request 7](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302) 
-* [Pull request 21](https://github.com/code-collabo/node-mongo-cli/pull/21#issue-589792008)
+Next create and send a `pull request` so that your code can be reviewed. Also add description and testing checklist to your pull request. See examples of previously made pull requests for how to go about this: [pull request 7](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302), [pull request 21](https://github.com/code-collabo/node-mongo-cli/pull/21#issue-589792008).
 
