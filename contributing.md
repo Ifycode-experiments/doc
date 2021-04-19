@@ -10,7 +10,7 @@ Please go through the general guidelines below and the one specific to the parti
 
 ### General guidelines for all repos
 
-* If a repo has a `develop` branch, create your `feature branch` from develop. If there's no develop branch then create it from the `main` branch. Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://github.com/code-collabo/docs/blob/main/contributor-guide/git-workflow.md) for explanation of these terms, how to make changes to the code base and submit pull request.
+* If a repo has a `develop` branch, create your `feature branch` from develop. If there's no develop branch then create it from the `main` branch. Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to the code base and submit pull request.
 * Feel free to ask questions in the comment there in the issue you wish to tackle - concerning anything not clear after you have read the general guide, and guide specific to the project\(s\) you want to work on.
 
 _Tag **@Ifycode** in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
@@ -34,11 +34,11 @@ If you find that some frequently used in-built css styles are not yet included i
 
 The following repos make up the _**node-mongo project**_: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
 
-* Completing the [first task assignment](https://github.com/code-collabo/docs/blob/main/contributor-guide/node-mongo-project/first-task.md) is compulsory, for contributors that are interested in working on \(i.e. submitting or reviewing code for\) issues with `cli-only` label or `starter-kit-only` label.
+* Completing the [first task assignment](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project/first-task) is compulsory, for contributors that are interested in working on \(i.e. submitting or reviewing code for\) issues with `cli-only` label or `starter-kit-only` label.
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. 
 * You can [report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
 
 ## List of contributors
 
-We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors are listed on the readme of the repo\(s\) they contributed to, following the [all contributors spec](https://allcontributors.org/docs/en/specification). As the number of contributors increase over time, the list will be moved to separate contributor.md files. The [all-contributors.md](https://github.com/code-collabo/docs/blob/main/all-contributors.md) has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
+We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors are listed on the readme of the repo\(s\) they contributed to, following the [all contributors spec](https://allcontributors.org/docs/en/specification). As the number of contributors increase over time, the list will be moved to separate contributor.md files. The [all-contributors.md](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
 
