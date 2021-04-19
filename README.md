@@ -25,5 +25,5 @@ See [contributing.md](https://code-collabo.gitbook.io/docs/contributing) and [co
 
 ## Meet our contributors ✨ 
 
-[Thanks to our awesome contributors](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) helping to develop and/or improve the [Code Collabo project](https://github.com/code-collabo)_**.**_
+[Thanks to our awesome contributors](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) helping to develop or improve the [Code Collabo project](https://github.com/code-collabo)_**.**_
 
