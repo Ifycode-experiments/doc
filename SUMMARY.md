@@ -11,9 +11,7 @@
 * [Documentation](contributor-guide/docs.md)
 * [less-css-helper-library development](contributor-guide/development.md)
 * [node-mongo project](contributor-guide/node-mongo-project/README.md)
-  * [Project details](contributor-guide/node-mongo-project/project-details.md)
-  * [First Task 📌](contributor-guide/node-mongo-project/first-task.md)
-  * [Project resources](contributor-guide/node-mongo-project/resources.md)
+  * [Project overview](contributor-guide/node-mongo-project/project-overview.md)
   * [node-mongo-cli development](contributor-guide/node-mongo-project/development-cli.md)
   * [starter-kit development](contributor-guide/node-mongo-project/development-kit.md)
 
