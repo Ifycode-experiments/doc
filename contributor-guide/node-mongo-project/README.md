@@ -1,8 +1,6 @@
 # node-mongo project
 
-### Details and resources
-
-### Project development
+{% page-ref page="project-overview.md" %}
 
 {% page-ref page="development-cli.md" %}
 
