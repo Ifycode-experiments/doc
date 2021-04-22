@@ -27,17 +27,17 @@ Run the following commands to test:
 
 `-i` is alias for `--intstall`, `-g` is alias for `--git`, `-s` is alias for `--skip-intstall`, `-x` is alias for `--skip-git`, `-y` is alias for `--yes`. You can use any of these to test the commands below. Commands that work alike have been grouped together below. Run the following commands to test.
 
-Group 1: Installs dependencies and initializes git:
+Group 1 - Installs dependencies and initializes git:
 
 * node-mongo a1
 * node-mongo a2 -i -g
 
-Group 2: Skips Install and initializes git:
+Group 2 - Skips Install and initializes git:
 
 * node-mongo a3 -s
 * node-mongo a4 -s -g
 
-Group 3: Skips install and skips git init:
+Group 3 - Skips install and skips git init:
 
 * node-mongo a5 -s -x
 * node-mongo a6 -y 
