@@ -1,3 +1,0 @@
-
-# dummy title
-dummy text
