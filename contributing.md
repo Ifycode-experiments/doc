@@ -17,7 +17,9 @@ Please go through the general guidelines below and the one specific to the parti
 * If a repo has a `develop` branch, create your `feature branch` from develop. If there's no develop branch then create it from the `main` branch. Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to the code base and submit pull request.
 * Feel free to ask questions in the comment there in the issue you wish to tackle - concerning anything not clear after you have read the general guide, and guide specific to the project\(s\) you want to work on.
 
-_Tag_ [@Ifycode](https://github.com/Ifycode) _in the comment, otherwise she won't receive a notification and therefore may not know that you wrote._
+{% hint style="info" %}
+Tag [@Ifycode](https://github.com/Ifycode) in the comment of the issue you wish to work on, otherwise she won't receive a notification and therefore may not know that you wrote.
+{% endhint %}
 
 ### Documentation
 
