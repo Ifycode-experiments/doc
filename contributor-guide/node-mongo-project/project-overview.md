@@ -4,7 +4,7 @@ description: node-mongo project overview
 
 # Project overview
 
-The node-mongo project is made up of package\(s\) built with nodejs and involves mongoDB. It includes a [cli](https://github.com/code-collabo/node-mongo-cli) and [starter-kit](https://github.com/code-collabo/node-mongo-starter-kit). The starter-kit has 3 templates - `es6`, `cjs` and `ts-es6` i.e. templates for es6+ syntax, commonJS syntax and typescript. The project is inspired by angular framework and the likes. 
+The node-mongo project is made up of package\(s\) built with nodejs and involves mongoDB. It includes a [CLI](https://github.com/code-collabo/node-mongo-cli) and [starter-kit](https://github.com/code-collabo/node-mongo-starter-kit). The CLI is to help provide better experience when using the starter-kit in MongoDB, MERN or MEAN projects. While the starter-kit has 3 templates - `es6`, `cjs` and `ts-es6` that the user can choose from. The project is inspired by angular framework and the likes. 
 
 {% hint style="info" %}
 Find the general guidelines and guidelines specific to the node-mongo project in the [contribution guidelines](https://code-collabo.gitbook.io/docs/contributing) page.
