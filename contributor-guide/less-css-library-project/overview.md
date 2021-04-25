@@ -4,7 +4,7 @@ description: The less-css-helper-library project overview
 
 # helper-library overview
 
-The  [less-css-helper-library](https://github.com/code-collabo/less-css-helper-library) project is made up just one package, built with nodejs, less and css. The helper library is made to help frontend developers who prefer do not like to use css frameworks out there, either because of the learning curve involved or they just prefer to write plain css themselves. 
+The  [less-css-helper-library](https://github.com/code-collabo/less-css-helper-library) project is made up just one package, built with nodejs, less and css. The helper library is made to help frontend developers who do not like to use css frameworks out there, either because of the learning curve involved or they just prefer to write plain css themselves. 
 
 {% hint style="info" %}
 Find the general guidelines for all Code Collabo projects in the [contribution guidelines](https://code-collabo.gitbook.io/docs/contributing) page.
