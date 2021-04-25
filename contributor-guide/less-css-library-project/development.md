@@ -8,7 +8,7 @@ After cloning your fork on to your computer as explained in the [git workflow pa
 * Use `npm start` or `npm start -s` to start the project. This has been configured to transpile your less code into css code.
 
 {% hint style="info" %}
-Work has started on making the library more suitable for production using webpack, so this part of the documentation will be updated soon if needed.
+Work has started on making the library more suitable for production using webpack, so this part of the documentation may be updated soon.
 {% endhint %}
 
 ## Making and testing changes
