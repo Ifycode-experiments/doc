@@ -21,6 +21,16 @@ Please go through the general guidelines below and the one specific to the parti
 Tag [@Ifycode](https://github.com/Ifycode) in the comment of the issue you wish to work on, otherwise she won't receive a notification and therefore may not know that you wrote.
 {% endhint %}
 
+### Repo-specific guidelines
+
+Find guidelines specific to a particular project in the project's overview page:
+
+{% page-ref page="contributor-guide/docs.md" %}
+
+{% page-ref page="contributor-guide/less-css-library-project/overview.md" %}
+
+{% page-ref page="contributor-guide/node-mongo-project/project-overview.md" %}
+
 ## List of contributors
 
 We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors are listed on the readme of the repo\(s\) they contributed to, following the [all contributors spec](https://allcontributors.org/docs/en/specification). As the number of contributors increase over time, the list will be moved to separate contributor.md files. The [all-contributors.md](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
