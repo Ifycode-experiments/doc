@@ -4,6 +4,10 @@ description: less-css-helper-library user guide
 
 # Styles and classes
 
+{% hint style="info" %}
+The less-css-helper-library user guide is still a work in progress, the information below should help pending the time that the user guide will be well structured.
+{% endhint %}
+
 The library provides some [reset styles](https://github.com/code-collabo/less-css-helper-library/blob/main/less/01-base/reset.less) and classes which you can apply on html elements.
 
 ### [display-related](https://github.com/code-collabo/less-css-helper-library/blob/main/less/02-style/display.less) classes:

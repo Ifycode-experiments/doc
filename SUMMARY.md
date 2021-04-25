@@ -23,10 +23,7 @@
 * [less-css-helper-library](user-guide/less-css-helper-library/README.md)
   * [Styles and classes](user-guide/less-css-helper-library/styles-and-classes.md)
   * [Installation and use](user-guide/less-css-helper-library/how-to-use.md)
-* [node-mongo-cli](user-guide/node-mongo-cli/README.md)
-  * [Installation and use](user-guide/node-mongo-cli/how-to-use.md)
-* [node-mongo-starter-kit](user-guide/node-mongo-starter-kit/README.md)
-  * [Installation and use](user-guide/node-mongo-starter-kit/how-to-use.md)
+* [node-mongo project](user-guide/node-mongo-project.md)
 
 ## Meet our awesome contributors
 
