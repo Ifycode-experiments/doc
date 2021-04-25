@@ -1,8 +1,8 @@
 ---
-description: node-mongo project overview
+description: The node-mongo project overview
 ---
 
-# Project overview
+# node-mongo overview
 
 The node-mongo project is made up of package\(s\) built with nodejs and involves mongoDB. It includes a [CLI](https://github.com/code-collabo/node-mongo-cli) and [starter-kit](https://github.com/code-collabo/node-mongo-starter-kit). The CLI is to help provide better experience when using the starter-kit in MongoDB, MERN or MEAN projects. The project is inspired by angular framework and the likes.
 

@@ -1,4 +1,4 @@
-# less-css-helper-library project
+# less-css-helper-library
 
 
 
