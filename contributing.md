@@ -27,14 +27,6 @@ If you find issues with any part of the documentation - [gitbook](https://code-c
 
 * You can [report or find issues to work on here](https://github.com/code-collabo/docs/issues).
 
-### node-mongo project repos
-
-The following repos make up the[ node-mongo](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project) project: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs). These contributing guidelines are specific to the node-mongo project repos:
-
-* Completing the [first task assignment](https://code-collabo.gitbook.io/docs/contributor-guide/node-mongo-project/first-task) is compulsory, for contributors that are interested in working on \(i.e. submitting or reviewing code for\) issues with `cli-only` label or `starter-kit-only` label.
-* Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue. 
-* You can [report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
-
 ## List of contributors
 
 We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. Contributors are listed on the readme of the repo\(s\) they contributed to, following the [all contributors spec](https://allcontributors.org/docs/en/specification). As the number of contributors increase over time, the list will be moved to separate contributor.md files. The [all-contributors.md](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) has also been included in the documentation to show all contributors in any of Code Collabo's projects. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
