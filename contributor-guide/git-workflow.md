@@ -18,21 +18,21 @@ Setting original repo as the upstream means you'll be able to update your fork, 
 
 To pull changes for the develop branch for example, checkout to develop: `git checkout develop`
 
-Then use the command: `git pull`
+Then use the command: `git pull` or `git pull upstream develop`
 
-In summary, just checkout to the branch you want to pull changes into `git checkout branch-name` and use the `git pull` command.
+In summary, just checkout to the branch you want to pull changes into `git checkout branch-name` and use the `git pull` or `git pull upstream branch-name`  command.
 
 ## Gitflow and branches
 
 The only time you have business with the main branch is if you choose to pull changes while in the main branch as explained in _**updating your fork**_.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 You are not to make changes to **main branch**, as it contains the production-ready version of the code.
 {% endhint %}
 
 A branch with name `develop` has been created for development purpose.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Also, you are not to make changes to the _****_**develop branch**. Instead, **create a feature branch** **from the develop branch** and make your changes there.
 {% endhint %}
 
@@ -42,7 +42,7 @@ Checkout to develop to ensure the feature branch you will create is a copy of th
 
 Create a feature branch while inside develop branch: `git checkout -b feature-branch-name-here`
 
-{% hint style="info" %}
+{% hint style="warning" %}
  Always make sure you checkout to develop branch before creating a new feature branch.
 {% endhint %}
 
