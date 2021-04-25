@@ -6,13 +6,20 @@ description: Integration with gitbook and development
 
 ### Integration and development
 
-[Our documentation's github repo](https://github.com/code-collabo/docs) is linked to [gitbook docs](https://code-collabo.gitbook.io/docs-code-collabo/) through gitbook integrations. This means that the github repo and the gitbook docs are synchronized i.e. whatever changes made to the docs on github repo reflects in the one on gitbook and vice versa. 
+[Our documentation's github repo](https://github.com/code-collabo/docs) is linked to [gitbook docs](https://code-collabo.gitbook.io/docs-code-collabo/) through gitbook integrations. This means that the github repo and the gitbook docs are synchronized i.e. whatever changes made to the docs on github repo reflects in the one on gitbook and vice versa. Links to pages in the documentation \(github or gitbook\) takes you to the gitbook version of the page, since it's nicer to read. Find links that will take you to the pages in the github repo in the [SUMMARY.md file](https://github.com/code-collabo/docs/blob/main/SUMMARY.md). To make it easier, the **edit on github** button has been made available at the top right corner of every page on gitbook. Clicking on this button takes you to the github version of the same page you are on in gitbook.
 
-To contribute to the docs, you can send a pull request with your corrections through github, following the instructions in the [contribution guidelines](https://code-collabo.gitbook.io/docs-code-collabo/contributing). 
+{% hint style="info" %}
+Find the general guidelines for all Code Collabo projects in the [contribution guidelines](https://code-collabo.gitbook.io/docs/contributing) page.
+{% endhint %}
 
-### Find pages in github repo during development
+### Guidelines specific to documentation
 
-Links to pages in the documentation \(github or gitbook\) takes you to the gitbook version of the page, since it's nicer to read. Find links that will take you to the pages in the github repo in the [SUMMARY.md file](https://github.com/code-collabo/docs/blob/main/SUMMARY.md).
+If you find issues with any part of the documentation \(gitbook or github\), you can report the issue. You will be asked to help work on it or it will be assigned to someone else \(if you don't have the time\). You can [Report or find issues to work on here](https://github.com/code-collabo/docs/issues). 
+
+* For simple edits or corrections like fixing texts or links, you can click on the **edit on github** button at the top right corner of that page on gitbook which will take you to the exact same page on github. There you can make your changes and send a pull request with your corrections. 
+* If it will involve creating folders or making large changes to the docs, it may be preferable to make the changes through gitbook. In that case, send a mail to **obiagba.mary.ifeoma@gmail.com** to get edit access to Code Collabo's gitbook documentation**.**
+
+
 
 
 
