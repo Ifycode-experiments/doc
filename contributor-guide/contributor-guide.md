@@ -14,7 +14,7 @@ description: Contributor guide's content summary
 
 {% page-ref page="git-workflow.md" %}
 
-{% page-ref page="less-css-library-project/development.md" %}
+{% page-ref page="less-css-library-project/" %}
 
 {% page-ref page="node-mongo-project/" %}
 
