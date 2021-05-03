@@ -17,15 +17,5 @@ Find the general guidelines for all Code Collabo projects in the [contribution g
 If you find issues with any part of the documentation \(gitbook or github\), you can report the issue. You will be asked to help work on it or it will be assigned to someone else \(if you don't have the time\). You can [Report or find issues to work on here](https://github.com/code-collabo/docs/issues). 
 
 * For simple edits or corrections like fixing texts or links, you can click on the **edit on github** button at the top right corner of that page on gitbook which will take you to the exact same page on github. There you can make your changes and send a pull request with your corrections. 
-* If it will involve creating folders or making large changes to the docs, it may be preferable to make the changes through gitbook. In that case, send a mail to **obiagba.mary.ifeoma@gmail.com** to get edit access to Code Collabo's gitbook documentation**.**
-
-
-
-
-
-
-
- 
-
-
+* If it will involve using or changing emojis, images, displaying hints, creating folders or making large changes to the docs, it may be preferable to make the changes through gitbook. In that case, send a mail to **obiagba.mary.ifeoma@gmail.com** to get edit access to Code Collabo's gitbook documentation**.**
 
