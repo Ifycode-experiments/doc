@@ -1,3 +1,7 @@
+---
+description: node-mongo project contributor guide
+---
+
 # node-mongo project
 
 {% page-ref page="project-overview.md" %}
