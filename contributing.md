@@ -4,7 +4,7 @@ description: General and repo-specific guidelines
 
 # Contribution guidelines
 
-Thank you for your interest in Code Collabo. We welcome and encourage anyone with any level of experience to contribute to any or all aspects of Code Collabo's projects. You can contribute in any of these areas: nodejs development, mongoDB development, testing, documentation & research.
+Thank you for your interest in Code Collabo. We welcome and encourage anyone with any level of experience to contribute to any or all aspects of Code Collabo's projects. You can contribute in any of these areas: nodejs development, mongoDB development, testing, documentation and research.
 
 {% hint style="info" %}
 Contribution guideline is different depending on the project you are working on.
