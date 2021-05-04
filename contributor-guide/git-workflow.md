@@ -70,5 +70,5 @@ Pushing every other time: `git push`
 
 ### Submit pull request
 
-Next create and send a `pull request` so that your code can be reviewed. Also add description and testing checklist to your pull request. See examples of previously made pull requests for how to go about this: [pull request 7](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302), [pull request 21](https://github.com/code-collabo/node-mongo-cli/pull/21#issue-589792008).
+Next create and send a `pull request` so that your code can be reviewed. Also add description and testing checklist to your pull request. See examples of previously made pull requests for how to go about this: [pull request 11](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302), [pull request 50](https://github.com/code-collabo/node-mongo-cli/pull/50#issue-602381499).
 
