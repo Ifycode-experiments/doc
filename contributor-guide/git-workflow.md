@@ -10,7 +10,7 @@ If you prefer or are using https, use this instead: `git clone https://github.co
 
 **Step 3:** Set original repo as upstream:  `git remote add upstream git@github.com:code-collabo/node-mongo-cli.git`
 
-You can check that your forked repo's url is set as the origin & original repo's url is set as the upstream with: `git remote -v`
+You can check that your forked repo's url is set as the origin, and the original repo's url is set as the upstream with: `git remote -v`
 
 ## Updating your fork
 
