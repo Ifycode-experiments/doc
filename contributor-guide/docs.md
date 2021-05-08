@@ -6,7 +6,7 @@ description: Integration with gitbook and development
 
 ### Integration and development
 
-[Our documentation's github repo](https://github.com/code-collabo/docs) is linked to [gitbook docs](https://code-collabo.gitbook.io/docs-code-collabo/) through gitbook integrations. This means that the github repo and the gitbook docs are synchronized i.e. whatever changes made to the docs on github repo reflects in the one on gitbook and vice versa. Links to pages in the documentation \(github or gitbook\) takes you to the gitbook version of the page, since it's nicer to read. Find links that will take you to the pages in the github repo in the [SUMMARY.md file](https://github.com/code-collabo/docs/blob/main/SUMMARY.md) or use the **edit on github** button at the top right corner of the page which is easier.
+[Our documentation's github repo](https://github.com/code-collabo/docs) is linked to [gitbook docs](https://code-collabo.gitbook.io/docs-code-collabo/) through gitbook integrations. This means that the github repo and the gitbook docs are synchronized i.e. whatever changes made to the docs on github repo reflects in the one on gitbook and vice versa. Links to pages in the documentation \(github or gitbook\) takes you to the gitbook version of the page, since it is nicer to read. Find links that will take you to the pages in the github repo in the [SUMMARY.md file](https://github.com/code-collabo/docs/blob/main/SUMMARY.md) or use the **edit on github** button at the top right corner of the page which is easier.
 
 {% hint style="info" %}
 Find the general guidelines for all Code Collabo projects in the [contribution guidelines](https://code-collabo.gitbook.io/docs/contributing) page.
