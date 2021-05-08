@@ -54,7 +54,7 @@ To help reviewers know what you are working on, give your feature branch a descr
 * **Action:** Words like `fix`,  `setup`,  `feature` etc. 
 * **Description:** What you are setting up, fixing, updating etc.
 
-So, feature branch name could look something like `7-setup-jasmine-test`,  `19-update-readme`, `1001-fix-db-error` etc.
+So, feature branch name could look something like `7-setup-jasmine-test`,  `19-update-readme`, `1001-fix-db-error` etc. You can decide to leave out action, if you like, when branch name gets too long.
 
 ## Submitting your changes
 
