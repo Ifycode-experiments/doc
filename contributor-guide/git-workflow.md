@@ -72,3 +72,5 @@ Pushing every other time: `git push`
 
 Next create and send a `pull request` so that your code can be reviewed. Also add description and testing checklist to your pull request. See examples of previously made pull requests for how to go about this: [pull request 11](https://github.com/code-collabo/node-mongo-cli/pull/11#issue-584788302), [pull request 50](https://github.com/code-collabo/node-mongo-cli/pull/50#issue-602381499).
 
+## Further study
+Although the sections above are what you will be needing to contribute, see [this YouTube resource](https://youtu.be/jFL228SfOmU) to help understand the git workflow term better.
