@@ -33,5 +33,5 @@ Find guidelines specific to a particular project in the project's overview page:
 
 ## List of contributors
 
-We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. For now, contributors to any of Code Collabo's projects are listed only on in the  [all-contributors.md](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) which is in the docs repo. As the number of contributors increase over time, there will also be separate contributor.md files in each repo. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
+We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. For now, contributors to any of Code Collabo's projects are listed only on in the [all-contributors.md](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) which is in the docs repo. As the number of contributors increase over time, there will also be separate contributor.md files in each repo. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
 

@@ -4,7 +4,7 @@ description: The node-mongo project overview
 
 # node-mongo overview
 
-The node-mongo project is made up of package\(s\) built with nodejs and involves mongoDB. It includes a CLI and starter-kit. The CLI is to help provide better experience when using the starter-kit in MongoDB, MERN or MEAN projects. The project is inspired by angular framework and the likes.
+The node-mongo project is made up of package\(s\) built with nodejs and involves mongoDB. It includes a CLI and starter kit. The starter kit has 3 templates: [es module](https://github.com/code-collabo/node-mongo-esm-kit), [commonjs](https://github.com/code-collabo/node-mongo-cjs-kit) and typescript \(coming soon\). The CLI is to help provide better experience when using the starter kit in MongoDB, MERN or MEAN projects. The project is inspired by angular framework and the likes.
 
 {% hint style="info" %}
 Find the general guidelines for all Code Collabo projects in the [contribution guidelines](https://code-collabo.gitbook.io/docs/contributing) page.
@@ -12,7 +12,7 @@ Find the general guidelines for all Code Collabo projects in the [contribution g
 
 ### Guidelines specific to node-mongo project
 
-These contributing guidelines are specific to these repos that make up the node-mongo project: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-starter-kit](https://github.com/code-collabo/node-mongo-starter-kit) and [node-mongo-starter-cjs](https://github.com/code-collabo/node-mongo-starter-cjs).
+These contributing guidelines are specific to these repos that make up the node-mongo project: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-esm-kit](https://github.com/code-collabo/node-mongo-esm-kit) and [node-mongo-cjs-kit](https://github.com/code-collabo/node-mongo-starter-cjs).
 
 * Completing the first task assignment is compulsory, for contributors that are interested in working on \(i.e. submitting or reviewing code for\) issues with `cli-only` label or `starter-kit-only` label.
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue.
