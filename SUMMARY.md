@@ -15,7 +15,7 @@
 * [node-mongo project](contributor-guide/node-mongo-project/README.md)
   * [node-mongo overview](contributor-guide/node-mongo-project/project-overview.md)
   * [node-mongo-cli development](contributor-guide/node-mongo-project/development-cli.md)
-  * [starter-kit development](contributor-guide/node-mongo-project/development-kit.md)
+  * [Starter kit development](contributor-guide/node-mongo-project/development-kit.md)
 
 ## User guide
 
