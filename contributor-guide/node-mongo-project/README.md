@@ -8,7 +8,7 @@ description: node-mongo project contributor guide
 
 {% page-ref page="development-cli.md" %}
 
-{% page-ref page="development-kit.md" %}
+{% page-ref page="development-starter-kit.md" %}
 
 
 
