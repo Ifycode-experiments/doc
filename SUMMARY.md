@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Docs home](README.md)
+* [Code Collabo](README.md)
 * [Contribution guidelines](contributing.md)
 * [Code of Conduct](code_of_conduct.md)
 

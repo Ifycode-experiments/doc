@@ -10,7 +10,7 @@ The node-mongo project is made up of package\(s\) built with nodejs and involves
 Find the general guidelines for all Code Collabo projects in the [contribution guidelines](https://code-collabo.gitbook.io/docs/contributing) page.
 {% endhint %}
 
-### Guidelines specific to node-mongo project
+## Guidelines specific to node-mongo project
 
 These contributing guidelines are specific to these repos that make up the node-mongo project: [node-mongo-cli](https://github.com/code-collabo/node-mongo-cli), [node-mongo-esm-kit](https://github.com/code-collabo/node-mongo-esm-kit) and [node-mongo-cjs-kit](https://github.com/code-collabo/node-mongo-starter-cjs).
 
@@ -18,7 +18,7 @@ These contributing guidelines are specific to these repos that make up the node-
 * Do not submit a pull request for an issue you have not been assigned to. Leave a comment under the issue you wish to work on and wait for approval before you start working on the issue.
 * You can [report or find issues to work on here](https://github.com/code-collabo/node-mongo-cli/issues).
 
-### First task assignment 📌 
+## First task assignment 📌
 
 New to making a CLI? No worries. Just show interest by finishing and submitting the task as instructed. Reach out to [@Ifycode](https://github.com/Ifycode) incase you run into any issues.
 
@@ -29,7 +29,7 @@ New to making a CLI? No worries. Just show interest by finishing and submitting 
 
 After submitting the task, [read up our contributor guide](https://code-collabo.gitbook.io/docs/contributor-guide/contributor-guide) \(if you haven't\) and [pick any issue to work on](https://github.com/code-collabo/node-mongo-cli/issues) - following the guidelines.
 
-### Project resources
+## Project resources
 
 A number of resources have been put together to help understand the project, or have an understanding of the sources where the idea used to write the base code came from. Feel free to use other materials alongside these:
 
@@ -40,6 +40,4 @@ A number of resources have been put together to help understand the project, or 
 * [MEAN stack CRUD operations](https://youtu.be/UYh6EvpQquw) - _1st 33 minutes_.
 
 You can also [suggest good resource materials](https://github.com/code-collabo/node-mongo-cli/issues/6) for aspects of the project that you don't find a resource for in the documentation.
-
-
 

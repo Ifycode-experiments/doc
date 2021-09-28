@@ -12,5 +12,3 @@ The less-css-helper-library user guide is still a work in progress, the informat
 
 {% page-ref page="how-to-use.md" %}
 
-
-

@@ -10,7 +10,3 @@ description: node-mongo project contributor guide
 
 {% page-ref page="development-starter-kit.md" %}
 
-
-
-
-

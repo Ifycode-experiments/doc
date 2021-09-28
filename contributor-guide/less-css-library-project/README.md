@@ -8,7 +8,3 @@ description: less-css-helper-library contributor guide
 
 {% page-ref page="development.md" %}
 
-
-
-
-

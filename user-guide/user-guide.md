@@ -12,5 +12,3 @@ The user guide is still a work in progress, the information below should help pe
 
 {% page-ref page="node-mongo-project.md" %}
 
-
-

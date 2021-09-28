@@ -10,7 +10,7 @@ The less-css-helper-library user guide is still a work in progress, the informat
 
 Install the npm package or use the cdn option.
 
-### Install [npm package](https://www.npmjs.com/package/@code-collabo/less-css-helper-library):
+## Install [npm package](https://www.npmjs.com/package/@code-collabo/less-css-helper-library):
 
 `npm i @code-collabo/less-css-helper-library`
 
@@ -26,13 +26,13 @@ If you are using less in an angular project for example, reference the one for l
 
 `@import 'node_modules/@code-collabo/less-css-helper-library/less/styles.less';`
 
-### Using CDN:
+## Using CDN:
 
 For projects that don't use nodejs, add the css cdn as href value for your link tag in the .html file. Make sure to add this before the other link tags used to reference your own css styles.
 
 `<link rel="stylesheet" href="https://code-collabo.github.io/less-css-helper-library/css/styles.css">`
 
-### Class names:
+## Class names:
 
 From the class names, it's easy to tell what they do. See effect when added to an html element below:
 
