@@ -10,14 +10,9 @@ Thank you for your interest in Code Collabo. You are welcome to contribute to an
 Contribution guideline is different depending on the project you are working on.
 {% endhint %}
 
-## General guidelines for all repos
+## General guidelines for Code Collabo project repos
 
-* If a repo has a `develop` branch, create your `feature branch` from develop. If there is no develop branch, then create it from the `main` branch. Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to the code base and submit pull request.
-* Feel free to ask questions in the comment there in the issue you wish to tackle - concerning anything not clear after you have read the general guide, and guide specific to the project\(s\) you want to work on.
-
-{% hint style="info" %}
-Tag [@Ifycode](https://github.com/Ifycode) in the comment of the issue you wish to work on, otherwise she won't receive a notification and therefore may not know that you wrote.
-{% endhint %}
+First check to see if a project's repo has a **develop branch**. If the project's repo has a develop branch, then create your **feature branch** from the develop develop. If there is no develop branch, then create your feature branch from the **main branch**. Do not make changes directly in the main branch or the develop branch. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to the code base and submit pull request.
 
 ### Repo-specific guidelines
 
