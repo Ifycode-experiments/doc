@@ -9,7 +9,7 @@
 
 ## collabo projects
 
-* [node-mongo](https://code-collabo.gitbook.io/node-mongo/v/develop/)
+* [node-mongo](https://code-collabo.gitbook.io/node-mongo/)
 * [scss-helper-library](https://code-collabo.gitbook.io/scss-helper-library/)
 
 ## collabo documentation
