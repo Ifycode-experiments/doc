@@ -4,15 +4,13 @@ description: General and repo-specific guidelines
 
 # Contribution guidelines
 
-Thank you for your interest in Code Collabo. We welcome and encourage anyone with any level of experience to contribute to any or all aspects of Code Collabo's projects. You can contribute in any of these areas: nodejs development, mongoDB development, testing, documentation and research.
+Thank you for your interest in Code Collabo. You are welcome to contribute to any of Code Collabo's projects regardless of your level of experience. Do make sure to read up the code of conduct and the contribution guidelines specific to the project you wish to work on.
 
 {% hint style="info" %}
 Contribution guideline is different depending on the project you are working on.
 {% endhint %}
 
-Please go through the general guidelines below and the one specific to the particular project\(s\) you have chosen to work on, before you start contributing to any of Code Collabo's projects.
-
-### General guidelines for all repos
+## General guidelines for all repos
 
 * If a repo has a `develop` branch, create your `feature branch` from develop. If there is no develop branch, then create it from the `main` branch. Do not make changes directly in the `main` or `develop` branches. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to the code base and submit pull request.
 * Feel free to ask questions in the comment there in the issue you wish to tackle - concerning anything not clear after you have read the general guide, and guide specific to the project\(s\) you want to work on.
