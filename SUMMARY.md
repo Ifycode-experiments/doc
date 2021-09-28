@@ -4,10 +4,16 @@
 * [Contribution guidelines](contributing.md)
 * [Code of Conduct](code_of_conduct.md)
 
+## code collabo projects
+
+* [node-mongo](https://code-collabo.gitbook.io/node-mongo/v/develop/)
+
+## Meet our awesome contributors
+
+* [All contributors ✨](meet-our-awesome-contributors/all-contributors.md)
+
 ## Contributor Guide
 
-* [Contributor guide](contributor-guide/contributor-guide.md)
-* [Git workflow](contributor-guide/git-workflow.md)
 * [Documentation](contributor-guide/docs.md)
 * [less-css-helper-library](contributor-guide/less-css-library-project/README.md)
   * [helper-library overview](contributor-guide/less-css-library-project/overview.md)
@@ -24,8 +30,4 @@
   * [Styles and classes](user-guide/less-css-helper-library/styles-and-classes.md)
   * [Installation and use](user-guide/less-css-helper-library/how-to-use.md)
 * [node-mongo project](user-guide/node-mongo-project.md)
-
-## Meet our awesome contributors
-
-* [All contributors ✨](meet-our-awesome-contributors/all-contributors.md)
 
