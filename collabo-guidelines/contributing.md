@@ -15,7 +15,13 @@ Contribution guideline is different depending on the project you are working on.
 First check to see if a project's repo has a **develop branch**. If the project's repo has a develop branch, then create your **feature branch** from the develop develop. If there is no develop branch, then create your feature branch from the **main branch**. Do not make changes directly in the main branch or the develop branch. See [git workflow](https://code-collabo.gitbook.io/docs/contributor-guide/git-workflow) for explanation of these terms, how to make changes to a project's code base and submit pull request.
 
 {% hint style="info" %}
-Do not make changes directly in the develop branch or the main branch
+Do not make changes directly in the develop branch or the main branch.
+{% endhint %}
+
+It is also possible that two or more persons can be working on the same issue or same parts of the code without knowing it. First check whether the issue you want to work is in the issues tab on Github. If you find the issue there, check to see f it has been assigned to someone. If not, request to be assigned. If the issue is not there on Github, raise the issue and get assigned to it. This way, who is working on what is visible to everyone and we will be able to avoid conflicts. Additionally, the issues created will be added to the project board to track a project's progress and will help writing project release notes.
+
+{% hint style="info" %}
+Make what you are working on visible to everyone to avoid conflicts, to help track a project's progress and what will be added to the project's release notes.
 {% endhint %}
 
 ## Project-specific contribution guidelines
