@@ -14,4 +14,4 @@ Go through [contribution guidelines](https://code-collabo.gitbook.io/doc/collabo
 
 ## Meet our awesome contributors ✨
 
-Meet our [awesome contributors](https://code-collabo.gitbook.io/doc/meet-our-awesome-contributors/all-contributors) helping to develop or improve the Code Collabo community project_**.**_ 
+Meet our [awesome contributors](https://code-collabo.gitbook.io/doc/meet-our-awesome-contributors/all-contributors) helping to develop or improve the Code Collabo community project.
