@@ -12,7 +12,7 @@ Contribution guideline is different depending on the project you are working on.
 
 ## General guidelines for Code Collabo projects
 
-First check to see if a project's repo has a **develop branch**. If the project's repo has a develop branch, then create your **feature branch** from the develop develop. If there is no develop branch, then create your feature branch from the **main branch**. Do not make changes directly in the main branch or the develop branch. See[ git workflow](https://code-collabo.gitbook.io/code-collabo/collabo-guidelines/contributing#git-workflow) for explanation of these terms, how to make changes to a project's code base and submit pull request.
+First check to see if a project's repo has a **develop branch**. If the project's repo has a develop branch, then create your **feature branch** from the develop develop. If there is no develop branch, then create your feature branch from the **main branch**. Do not make changes directly in the main branch or the develop branch. See [git workflow](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing#git-workflow) for explanation of these terms, how to make changes to a project's code base and submit pull request.
 
 {% hint style="info" %}
 Do not make changes directly in the develop branch or the main branch.
@@ -26,7 +26,7 @@ Make what you are working on visible to everyone to avoid conflicts, to help tra
 
 ## Project-specific contribution guidelines
 
-Find projects to work on and guidelines specific to each project under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/code-collabo/).
+Find projects to work on and guidelines specific to each project under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/doc/).
 
 ## Git workflow
 
@@ -144,7 +144,7 @@ Although the sections above are what you will be needing to contribute, see [thi
 
 ## Contributing to documentation
 
-The [Github repo](https://github.com/code-collabo/docs) for Code Collabo's main documentation is linked to this [Gitbook documentation](https://code-collabo.gitbook.io/code-collabo/). Documentation for projects on the other hand, can be found in the doc folder inside a project's Github repo and also linked to the Gitbook documentation. Find links that will take you to the pages in the Github repo's SUMMARY.md file or use the **edit on Github** button at the top right corner of the Gitbook documentation. 
+The [Github repo](https://github.com/code-collabo/docs) for Code Collabo's main documentation is linked to this [Gitbook documentation](https://code-collabo.gitbook.io/doc/). Documentation for projects on the other hand, can be found in the doc folder inside a project's Github repo and also linked to the Gitbook documentation. Find links that will take you to the pages in the Github repo's SUMMARY.md file or use the **edit on Github** button at the top right corner of the Gitbook documentation. 
 
 For simple edits or corrections like fixing texts or links, you can click on the **edit on github** button at the top right corner of that page on Gitbook which will take you to the exact same page on github. There you can make your changes and send a pull request with your corrections. If it will involve using or changing emojis, images, displaying hints, creating folders or making large changes to the docs, it may be preferable to make the changes through Gitbook. In that case, contact [@Ifycode](https://github.com/Ifycode) to get edit access to Code Collabo's gitbook documentation**.**
 
