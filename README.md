@@ -10,9 +10,9 @@ This is the official documentation for the [Code Collabo community project](http
 
 ## How and where to start?
 
-Go through [contribution guidelines](https://code-collabo.gitbook.io/code-collabo/collabo-guidelines/contributing) to get you started on how to go about contributing to Code Collabo. Find existing projects to contribute to under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/code-collabo/). Interested contributors can reach out to [@Ifycode](https://github.com/Ifycode) to get added to Code Collabo community chat on slack and gitter.
+Go through [contribution guidelines](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing) to get you started on how to go about contributing to Code Collabo. Find existing projects to contribute to under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/doc/). Interested contributors can reach out to [@Ifycode](https://github.com/Ifycode) to get added to Code Collabo community chat on slack and gitter.
 
 ## Meet our awesome contributors ✨
 
-Meet our [awesome contributors](https://code-collabo.gitbook.io/code-collabo/meet-our-awesome-contributors/all-contributors) helping to develop or improve the Code Collabo community project_**.**_ 
+Meet our [awesome contributors](https://code-collabo.gitbook.io/doc/meet-our-awesome-contributors/all-contributors) helping to develop or improve the Code Collabo community project_**.**_ 
 
