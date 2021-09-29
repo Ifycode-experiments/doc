@@ -1,12 +1,10 @@
 # All contributors ✨
 
-We appreciate all our contributors who contribute to any aspect of the Code Collabo project, both those who touch code and those who don't. For now, contributors to any of Code Collabo's projects are listed only on in the [all-contributors.md](https://code-collabo.gitbook.io/docs/meet-our-awesome-contributors/all-contributors) which is in the docs repo. As the number of contributors increase over time, there will also be separate contributor.md files in each repo. We try our best to add contributors immediately, but incase you have contributed and don't find your name in the list please let us know so that you can be added.
+Thanks to our awesome contributors helping to develop or improve the [Code Collabo community project](https://github.com/code-collabo)_**.**_ This page of the documentation has been dedicated and reserved for you to recognise your efforts, both those who touch code and those who don't. All contributors to a project are listed either on the readme of the project 's Github repo or in a separate contributor.md file. Contributors are added to the list immediately, but incase you have contributed and don't find your name in the list, you can contact [@Ifycode](https://github.com/Ifycode) so that you can be added. Find the links to contributors for all Code Collabo projects below: 
 
+* [node-mongo project contributors](https://github.com/code-collabo/node-mongo-cli#appreciation)
+* scss-helper-library contributors \(adding soon\)
+* Code Collabo documentation \(adding soon\)
 
-
-Thanks to our awesome contributors helping to develop or improve the [Code Collabo project](https://github.com/code-collabo)_**.**_ This section of the documentation has been dedicated and reserved for you to recognize your efforts. In case you have contributed to any of Code Collabo's projects but don't find your name in the list below, please let us know so that you can be added. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! See [emoji key](https://allcontributors.org/docs/en/emoji-key).
-
-| [![](https://avatars.githubusercontent.com/u/45185388?v=4?s=100) **Obiagba Mary Ifeoma**](https://github.com/Ifycode) [📖](https://github.com/code-collabo/docs/commits?author=Ifycode) [💻](https://github.com/code-collabo/docs/commits?author=Ifycode) [🚇](all-contributors.md#infra-Ifycode) [🚧](all-contributors.md#maintenance-Ifycode) [👀](https://github.com/code-collabo/docs/pulls?q=is%3Apr+reviewed-by%3AIfycode) [📆](all-contributors.md#projectManagement-Ifycode) [🤔](all-contributors.md#ideas-Ifycode) | [![](https://avatars.githubusercontent.com/u/14045379?v=4?s=100) **Israel Obiagba**](https://github.com/IsraelObiagba) [🧑‍🏫](all-contributors.md#mentoring-IsraelObiagba) | [![](https://avatars.githubusercontent.com/u/42423547?v=4?s=100) **Joseph Obiagba**](https://github.com/jiobiagba) [🧑‍🏫](all-contributors.md#mentoring-jiobiagba) |
-| :--- | :--- | :--- |
 
 
