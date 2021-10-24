@@ -4,15 +4,18 @@
 
 ## collabo guidelines
 
-* [Code of Conduct](collabo-guidelines/code_of_conduct.md)
+* [Code of Conduct](collabo-guidelines/code\_of\_conduct.md)
 * [Contribution guidelines](collabo-guidelines/contributing.md)
 
 ## collabo projects
 
 * [node-mongo](https://code-collabo.gitbook.io/node-mongo/)
-* [scss-helper-library](https://code-collabo.gitbook.io/scss-helper-library/)
+* [styles-library](https://code-collabo.gitbook.io/styles-library/)
 
-## Meet our awesome contributors
+## collabo contributors
 
-* [All contributors ✨](meet-our-awesome-contributors/all-contributors.md)
+* [All collabo contributors ✨](collabo-contributors/all-contributors.md)
 
+## collabo on github
+
+* [Code collabo (Github)](https://github.com/code-collabo)
