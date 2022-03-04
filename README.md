@@ -6,11 +6,15 @@
 
 ![Code Collabo header image](.gitbook/assets/code-collabo-header-img.png)
 
-This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo). New to tech and looking for a place to put programming concepts learnt to use? New to and want to start contributing to open source? Looking for problem solving projects to work on alongside some other persons or interested in mentoring? **Code Collabo** Free and Open Source Community is packed with awesome collaboration projects to provide support and open source experience for tech talents regardless of their level of experience.
+This is the official documentation for the [Code Collabo community project](https://github.com/code-collabo). 
+
+<!--
+New to tech and looking for a place to put programming concepts learnt to use? New to and want to start contributing to open source? Looking for problem solving projects to work on alongside some other persons or interested in mentoring? **Code Collabo** Free and Open Source Community is packed with awesome collaboration projects to provide support and open source experience for tech talents regardless of their level of experience.
+-->
 
 ## How and where to start?
 
-Go through [contribution guidelines](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing) to get you started on how to go about contributing to Code Collabo. Find existing projects to contribute to under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/doc/). Interested contributors can reach out to [@Ifycode](https://github.com/Ifycode) to get added to Code Collabo community chat on slack and gitter.
+Go through [contribution guidelines](https://code-collabo.gitbook.io/doc/collabo-guidelines/contributing) to get you started on how to go about contributing to Code Collabo. Find existing projects to contribute to under **collabo projects** in the sidebar menu of the [Gitbook documentation](https://code-collabo.gitbook.io/doc/). Interested contributors can reach out to [@Ifycode](https://github.com/Ifycode) by just commenting on the issue they are interested in working on.
 
 ## Meet our awesome contributors ✨
 
